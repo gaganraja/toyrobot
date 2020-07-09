@@ -1,0 +1,8 @@
+/Users/gaganraja/ZoneToyRobot/src/test/java/com/zonedigital/robot/utils/ZoneToyRobotUtilsTest.java
+/Users/gaganraja/ZoneToyRobot/src/test/java/com/zonedigital/robot/ZoneToyRobotTest.java
+/Users/gaganraja/ZoneToyRobot/src/test/java/com/zonedigital/robot/command/MoveCommandTest.java
+/Users/gaganraja/ZoneToyRobot/src/test/java/com/zonedigital/robot/movement/TableTest.java
+/Users/gaganraja/ZoneToyRobot/src/test/java/com/zonedigital/robot/command/RightCommandTest.java
+/Users/gaganraja/ZoneToyRobot/src/test/java/com/zonedigital/robot/command/LeftCommandTest.java
+/Users/gaganraja/ZoneToyRobot/src/test/java/com/zonedigital/robot/command/PlaceCommandTest.java
+/Users/gaganraja/ZoneToyRobot/src/test/java/com/zonedigital/robot/command/ReportCommandTest.java
